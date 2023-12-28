@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d99266e-10cf-45c6-a22d-0a602c8cbe09" name="Changes" comment="Initialisation de projet" />
+    <list default="true" id="2d99266e-10cf-45c6-a22d-0a602c8cbe09" name="Changes" comment="Initialisation de projet">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +29,15 @@
         </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,11 +62,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "A:/Spring/bank-account-app/gateway-service/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +89,14 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.accountservice.model" />
+      <recent name="com.example.accountservice.enums" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\Spring\bank-account-app\gateway-service\src\main\resources" />
+      <recent name="A:\Spring\bank-account-app\customer-service\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="A:\Spring\bank-account-app\customer-service\src\main\java\com\example\customerservice" />
     </key>
@@ -129,7 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703763945611</updated>
       <workItem from="1703763946725" duration="975000" />
-      <workItem from="1703765002659" duration="883000" />
+      <workItem from="1703765002659" duration="12031000" />
     </task>
     <task id="LOCAL-00001" summary="Initialisation de projet">
       <created>1703765576197</created>
